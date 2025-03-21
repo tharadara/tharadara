@@ -1,4 +1,4 @@
-👋 Hi, I’m Mohammad (aka @tharadara)
+👋 Hi, I’m Mohammad (@tharadara)
 🚀 Flutter Developer | Firebase Enthusiast | Rest API | Google Map 
 
 🔹 What I Do:
