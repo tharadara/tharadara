@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @tharadara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-<!---
-tharadara/tharadara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Mohammad (aka @tharadara)
+🚀 Flutter Developer | Firebase Enthusiast | Rest API | Google Map 
+
+🔹 What I Do:
+
+Building cross-platform apps with Flutter & Firebase
+
+💡 Looking to Collaborate On:
+
+Flutter & Firebase projects
+AI-powered travel & booking apps
+Innovative music & health tech solutions
+📬 Reach Me At:
+📩 mohammadhusain4760@gmail.com
+
+Let's build something awesome! 🚀✨
